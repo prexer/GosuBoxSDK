@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="853c7546-3acd-4ee3-936d-bb4a3e41c64f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/h2/devdb.h2.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/h2/devdb.lock.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GosuBoxSDK.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.vark" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/public/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/boxV2/comment.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/boxV2/config.properties.template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/boxV2/file.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/boxV2/folder.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/boxgw/apiv2.gs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/RoninConfig.gs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controller/Main.gs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/db/model.ddl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/FileComments.gst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/Folder.gst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/Main.gst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controller/MainTestV3.gs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controller/MainTestV4.gs" />
     </list>
     <ignored path="GosuBoxSDK.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -219,7 +188,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
