@@ -1,0 +1,3 @@
+api_key=YOUR_API_KEY
+auth_token=Example_Auth_Token
+base_url=https://www.box.com/api/2.0/

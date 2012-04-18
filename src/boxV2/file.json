@@ -1,0 +1,27 @@
+"{
+ """"file"""":{
+    """"id"""":""""111111"""", 
+    """"CreatedBy"""":{""""name"""":""""Andy Applegate"""",
+          """"Id"""":""""123432324""""},
+    """"createdAt"""":""""2007-06-05T22:07:03.000Z"""",
+    """"ModifiedUser"""":{""""name"""":""""Betty Baker"""",
+          """"Id"""":""""98989898""""},
+    """"ModfiedAt"""":""""2010-01-07T13:26:50.000Z"""",         
+    """"name"""":""""File1.txt"""", 
+    """"description"""":""""Some File that I sent to Grandma"""",
+    """"tags"""":""""Grandma, Red, Hoodf""""
+    """"version"""":""""11111"""",  
+    """"size"""":""""123.4KB"""",
+    """"mime_type"""":text/plain"""",
+    """"path"""":""""/Stories/Fairytales/File1.txt"""",
+    """"parent"""":{
+      """"id"""":""""99999"""", """"name"""":""""Folder1""""}, 
+    """"shared"""":""""0"""", 
+    """"thumb_exists"""":""""0"""",
+    """"num_pages"""":""""25"""",
+    """"comments"""":""""1"""",
+    """"discussions"""":""""1"""",  
+    """"collaborated"""":""""1"""", 
+    """"sha1"""":""""da938eaf98969ab9f9ac63208724""""
+ }
+}"

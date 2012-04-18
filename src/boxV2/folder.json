@@ -1,0 +1,25 @@
+"{
+    ""folder"": {
+        ""folder_id"": 0,
+        ""name"": ""All Files"",
+        ""items"": [
+            [
+                {
+                    ""folder"": {
+                        ""folder_id"": ""231958706"",
+                        ""name"": ""Cloudstock assets""
+                    }
+                },
+                {
+                    ""file"": {
+                        ""file_id"": ""1264261148"",
+                        ""name"": ""Sean_A.jpg"",
+                        ""createtime"": ""1329177403"",
+                        ""updatetime"": ""1331596267"",
+                        ""size"": ""3770""
+                    }
+                }
+            ]
+        ]
+    }
+}"
